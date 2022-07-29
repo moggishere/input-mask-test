@@ -55,6 +55,7 @@ const InputField = (props) => {
         <InputMask
           mask={inputMask}
           value={inputField}
+          placeholder={inputMask}
           onChange={handleInputChange}
         />
         <button onClick={handleSubmit}>submit</button>
