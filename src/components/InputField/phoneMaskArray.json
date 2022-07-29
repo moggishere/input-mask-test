@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "initials": "BR",
+        "country": "Brasil",
+        "emoji": "🇧🇷",
+        "fullMask": "+55(##)#####-####",
+        "mask": "(99) 99999-9999",
+        "ddd": "+55"
+    },
+    {
+        "id": 1,
+        "initials": "SV",
+        "country": "El Salvador",
+        "emoji": "🇸🇻",
+        "fullMask": "+503-##-##-####",
+        "mask": "99-99-9999",
+        "ddd": "+503"
+    },
+    {
+        "id": 2,
+        "initials": "DO",
+        "country": "Republica Dominicana",
+        "emoji": "🇩🇴",
+        "fullMask": "+1(829)###-####",
+        "mask": "999-9999",
+        "ddd": "+1(829)"
+    },
+    {
+        "id": 3,
+        "initials": "GT",
+        "country": "Guatemala",
+        "emoji": "🇬🇹",
+        "fullMask": "+502-#-###-####",
+        "mask": "9-999-9999",
+        "ddd": "+502"
+    },
+    {
+        "id": 4,
+        "initials": "AR",
+        "country": "Argentina",
+        "emoji": "🇦🇷",
+        "fullMask": "+54(###)###-####",
+        "mask": "(999)999-9999",
+        "ddd": "+54"
+    },
+    {
+        "id": 5,
+        "initials": "PE",
+        "country": "Peru",
+        "emoji": "🇵🇪",
+        "fullMask": "+51(###)###-###",
+        "mask": "(999)999-999",
+        "ddd": "+51"
+    },
+    {
+        "id": 6,
+        "initials": "CL",
+        "country": "Chile",
+        "emoji": "🇨🇱",
+        "fullMask": "+56-#-####-####",
+        "mask": "9-9999-9999",
+        "ddd": "+56"
+    },
+    {
+        "id": 7,
+        "initials": "BO",
+        "country": "Bolivia",
+        "emoji": "🇧🇴",
+        "fullMask": "+591-#-###-####",
+        "mask": "9-999-9999",
+        "ddd": "+591"
+    },
+    {
+        "id": 8,
+        "initials": "CO",
+        "country": "Colombia",
+        "emoji": "🇨🇴",
+        "fullMask": "+57(###)###-####",
+        "mask": "(999)999-9999",
+        "ddd": "+57"
+    },
+    {
+        "id": 9,
+        "initials": "EC",
+        "country": "Ecuador",
+        "emoji": "🇪🇨",
+        "fullMask": "+593-#-###-####",
+        "mask": "9-999-9999",
+        "ddd": "+593"
+    },
+    {
+        "id": 10,
+        "initials": "PY",
+        "country": "Paraguay",
+        "emoji": "🇵🇾",
+        "fullMask": "+595(###)###-###",
+        "mask": "(999)999-999",
+        "ddd": "+595"
+    },
+    {
+        "id": 11,
+        "initials": "UY",
+        "country": "Uruguay",
+        "emoji": "🇺🇾",
+        "fullMask": "+598-#-###-##-##",
+        "mask": "9-999-99-99",
+        "ddd": "+598"
+    },
+    {
+        "id": 12,
+        "initials": "VE",
+        "country": "Venezuela",
+        "emoji": "🇻🇪",
+        "fullMask": "+58(###)###-####",
+        "mask": "(999)999-9999",
+        "ddd": "+58"
+    },
+    {
+        "id": 13,
+        "initials": "MX",
+        "country": "Mexico",
+        "emoji": "🇲🇽",
+        "fullMask": "+52(###)###-####",
+        "mask": "(999)999-9999",
+        "ddd": "+52"
+    }
+]
