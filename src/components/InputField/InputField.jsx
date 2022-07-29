@@ -6,6 +6,8 @@ import phoneMaskArray from "./phoneMaskArray.json";
 
 import * as S from "./styled";
 
+import { randomizeNumbersString } from "../helpers/helper"; 
+
 const InputField = (props) => {
   // const [placeholder, setPlaceholder] = useState("+55(##)#####-####");
   const [currentCountry, setCurrentCountry] = useState("");
@@ -55,7 +57,7 @@ const InputField = (props) => {
         <InputMask
           mask={inputMask}
           value={inputField}
-          placeholder={inputMask}
+          placeholder={randomizeNumbersString(inputMask)}
           onChange={handleInputChange}
         />
         <button onClick={handleSubmit}>submit</button>
