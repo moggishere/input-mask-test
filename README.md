@@ -1,1 +1,1 @@
-simple test
+Simple input mask test
